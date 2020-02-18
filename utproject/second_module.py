@@ -15,7 +15,7 @@ from utproject import first_module
 import utproject.first_module
 
 
-class SecondModule(object):
+class SecondModule:
     """
     Python basic class
     """
