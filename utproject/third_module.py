@@ -15,7 +15,7 @@ import string
 from utproject import second_module
 
 
-class ThirdModule(object):
+class ThirdModule:
     """
     Python basic class
     """
