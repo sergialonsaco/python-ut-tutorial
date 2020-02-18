@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/arbulu89/python-ut-tutorial.svg?branch=master)](https://travis-ci.org/arbulu89/python-ut-tutorial)
 [![BCH compliance](https://bettercodehub.com/edge/badge/sergialonsoalpha/python-ut-tutorial?branch=master)](https://bettercodehub.com/)
-[![DeepSource](https://static.deepsource.io/deepsource-badge-dark-mini.svg)](https://deepsource.io/gh/sergialonsoalpha/python-ut-tutorial/?ref=repository-badge)
+[![DeepSource](https://static.deepsource.io/deepsource-badge-light-mini.svg)](https://deepsource.io/gh/sergialonsoalpha/python-ut-tutorial/?ref=repository-badge)
 
 # Python Unit Test tutorial
 
