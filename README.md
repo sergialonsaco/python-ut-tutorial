@@ -1,6 +1,7 @@
 [![Build Status](https://travis-ci.org/arbulu89/python-ut-tutorial.svg?branch=master)](https://travis-ci.org/arbulu89/python-ut-tutorial)
 [![Maintainability](https://api.codeclimate.com/v1/badges/ec92d2849689b3cf8954/maintainability)](https://codeclimate.com/github/arbulu89/python-ut-tutorial/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/ec92d2849689b3cf8954/test_coverage)](https://codeclimate.com/github/arbulu89/python-ut-tutorial/test_coverage)
+[![BCH compliance](https://bettercodehub.com/edge/badge/sergialonsoalpha/python-ut-tutorial?branch=master)](https://bettercodehub.com/)
 
 # Python Unit Test tutorial
 
