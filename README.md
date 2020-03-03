@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/328050421429403bb8d8191f2698c8aa)](https://app.codacy.com/manual/sergi.alonsobadia/python-ut-tutorial?utm_source=github.com&utm_medium=referral&utm_content=sergialonsoalpha/python-ut-tutorial&utm_campaign=Badge_Grade_Dashboard)
 [![Build Status](https://travis-ci.org/arbulu89/python-ut-tutorial.svg?branch=master)](https://travis-ci.org/arbulu89/python-ut-tutorial)
 [![BCH compliance](https://bettercodehub.com/edge/badge/sergialonsoalpha/python-ut-tutorial?branch=master)](https://bettercodehub.com/)
 [![DeepSource](https://static.deepsource.io/deepsource-badge-light-mini.svg)](https://deepsource.io/gh/sergialonsoalpha/python-ut-tutorial/?ref=repository-badge)
